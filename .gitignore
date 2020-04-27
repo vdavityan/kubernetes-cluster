@@ -1,1 +1,6 @@
 .vagrant/
+*.log
+*.bat
+*.sh
+*.yaml
+*.ps1
